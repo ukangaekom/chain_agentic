@@ -19,6 +19,8 @@ It utilizes the power of google gemini, combined with well structured role promp
 ## Demo 
 [**Demo Video**](https://youtu.be/Fn0CQMwphKc?si=GCM2BUUHUPyMZjtY)
 
+[**Project**](https://t.me/chainagentic_bot)
+
 
 
 
