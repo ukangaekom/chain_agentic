@@ -43,8 +43,10 @@ GEMINI_API_KEY="Insert google cloud gemini key"
 simply go to your terminal and write the following code
 
 ``` cargo build```
-
+ 
 ``` cargo run```
+
+Go to the used telegram bot to token and test the application.
 
 
 
