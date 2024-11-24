@@ -21,6 +21,30 @@ It utilizes the power of google gemini, combined with well structured role promp
 
 [**Project**](https://t.me/chainagentic_bot)
 
+# How to Test Project Locally
+
+``` git  clone ```
+
+change directory to chain_agentic git folder
+
+``` cd chain_agentic```
+
+### Create a .env file in the repo and input the the following 
+
+```
+TELEGRAM_BOT_TOKEN="Insert A telegram bot token"
+
+GEMINI_API_KEY="Insert google cloud gemini key"
+
+```
+
+
+## Running The Application 
+simply go to your terminal and write the following code
+
+``` cargo build```
+
+``` cargo run```
 
 
 
